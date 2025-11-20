@@ -1,0 +1,25 @@
+
+.dropdown {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    height:100vh;
+    gap: 23px;
+}
+label{
+    font-size:xx-large;
+}
+
+select {
+    height: 200px;
+    font-size:xx-large;
+    width: 200px;
+  height: 40px;
+  padding: 8px;
+  font-size: 16px; 
+  border: 2px solid #333;
+  border-radius: 6px;    
+  background-color: #f0f0f0; 
+  color: #222;
+}
